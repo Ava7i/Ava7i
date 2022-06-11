@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lamima7777@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and Friendly.**
+- ⚡ Fun fact **Friendly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
