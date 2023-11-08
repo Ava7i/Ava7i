@@ -1,7 +1,7 @@
 ![MasterHead](https://www.aiplusinfo.com/wp-content/uploads/2021/01/Black-Technology-Blog-Banner.gif)
 <h1 align="center">Hey👋, I'm Lamima Tabassum Ava</h1>
 
-<h3 align="center">A passionate ML,DL,NLP developer from Bangladesh</h3>
+<h3 align="center">Professional Machine Learning Engineer and Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ava7i&label=Profile%20views&color=0e75b6&style=flat" alt="ava7i" /> </p>
 
